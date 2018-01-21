@@ -3,7 +3,7 @@ Implementation of E-commerce website (Back-end focus)
 
 Developed a e-commerce website using NODE.Js, Jade, MySQL and also implemented load-balancing along with the bottleneck detection and cron scheduling.
 
-Project: 
+Project:
 Created a 3-tier online order entry system which has the following:
 (1)	Create User/Password
 (2)	Create customer profile (Name, Address, Ship-To Address, Bill-To-Address, Credit Card)
