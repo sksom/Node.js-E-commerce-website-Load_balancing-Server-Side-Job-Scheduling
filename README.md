@@ -31,8 +31,11 @@ Created a 3-tier online order entry system which has the following:
 (12) Create orders from subscription templates a day before the due dates
 
 Database Objects: User Table, Customer table, Address Table, Catalog table
+
 Transactional Objects: Order table, LineItems Table, Shipment Table, Subscription Template, Subscription Orders
 
 UI Tier – HTML or thick-Client
+
 App Tier – all business logic, UI and database interaction resides here
+
 DB Tier – All data tables needed to support the application
