@@ -5,17 +5,29 @@ Developed a e-commerce website using NODE.Js, Jade, MySQL and also implemented l
 
 Project:
 Created a 3-tier online order entry system which has the following:
+
 (1)	Create User/Password
+
 (2)	Create customer profile (Name, Address, Ship-To Address, Bill-To-Address, Credit Card)
+
 (3)	Login authentication (validate user)
+
 (4)	Create Catalog of items to be sold (SKU, Item Name, Item Description, Price, Available quantity)
+
 (5)	Create an order
+
 (6)	Add items from catalog to order (if available quantity > 0)
+
 (7)	Calculate total price + Sales Tax
+
 (8)	Complete Order
+
 (9)	Create shipment information for each line item in the order. Process shipment: Possible states - Pick, Pack, Ship 
+
 (10) Show shipment status  on the order
+
 (11) Create subscription templates with due dates
+
 (12) Create orders from subscription templates a day before the due dates
 
 Database Objects: User Table, Customer table, Address Table, Catalog table
